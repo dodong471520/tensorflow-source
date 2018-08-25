@@ -1,0 +1,3 @@
+深度学习、优化与识别
+TensorFlow白话深度学习与TensorFlow.高扬%28详细书签%29%5Baibbt.com%5D
+TensorFlow实战_黄文坚（完整）[aibbt.com]
